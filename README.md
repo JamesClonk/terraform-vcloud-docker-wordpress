@@ -1,3 +1,5 @@
+## Note: this project has been moved to [https://github.com/swisscom/terraform-dcs-docker-wordpress](https://github.com/swisscom/terraform-dcs-docker-wordpress), go there if you want to report issues or open pull requests.
+
 # terraform-vcloud-docker-wordpress
 [![Build](https://img.shields.io/github/actions/workflow/status/swisscom/terraform-dcs-docker-wordpress/master.yml?branch=master&label=Build)](https://github.com/swisscom/terraform-dcs-docker-wordpress/actions/workflows/master.yml)
 [![License](https://img.shields.io/badge/License-Apache--2.0-lightgrey)](https://github.com/swisscom/terraform-dcs-docker-wordpress/blob/master/LICENSE)
